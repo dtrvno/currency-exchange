@@ -13,4 +13,6 @@ http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
 
 URL
  http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
+ api-gateway
+ http://localhost:8765/currency-exchange/currency-exchange/from/USD/to/INR
 
